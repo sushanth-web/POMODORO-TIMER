@@ -16,11 +16,8 @@ _(Replace this with your deployed app link)_
 
 | Session Mode | Break Mode |
 |--------------|------------|
-| ![Session Screenshot](![localhost_5173_(Nest Hub Max) (6)](https://github.com/user-attachments/assets/bc76ef3d-c397-44d0-a70a-522cae4ee3ab)
-) | ![Break Screenshot](![localhost_5173_(Nest Hub Max) (7)](https://github.com/user-attachments/assets/b765b940-f500-4487-9c96-fbc0bfe45964)
-) |
-
-_Add your screenshots in the `/screenshots` folder and link them here._
+https://github.com/user-attachments/assets/bc76ef3d-c397-44d0-a70a-522cae4ee3ab
+https://github.com/user-attachments/assets/b765b940-f500-4487-9c96-fbc0bfe45964
 
 ---
 
@@ -42,10 +39,3 @@ _Add your screenshots in the `/screenshots` folder and link them here._
 - **CSS/Tailwind** for styling and animations
 
 ---
-
-## 🧰 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/25-5-clock.git
-   cd 25-5-clock
