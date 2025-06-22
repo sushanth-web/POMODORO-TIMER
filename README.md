@@ -16,9 +16,9 @@ _(Replace this with your deployed app link)_
 
 | Session Mode | Break Mode |
 |--------------|------------|
-https://github.com/user-attachments/assets/bc76ef3d-c397-44d0-a70a-522cae4ee3ab
-https://github.com/user-attachments/assets/b765b940-f500-4487-9c96-fbc0bfe45964
-
+| ![Session Screenshot](![localhost_5173_(Nest Hub Max) (6)](https://github.com/user-attachments/assets/bfc1a2a9-3e02-4581-8d30-498d1a289451)
+) | ![Break Screenshot](![localhost_5173_(Nest Hub Max) (7)](https://github.com/user-attachments/assets/1bcdf189-5d4e-43e6-8dff-05b14aadb530)
+) |
 ---
 
 ## ✨ Features
