@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Nebula Glow Classes */
+.nebula-glow {
+  position: absolute;
+  border-radius: 9999px;
+  pointer-events: none;
+  filter: blur(100px);
+  opacity: 0.3;
+  z-index: 0;
+  background: radial-gradient(circle, #8b5cf6, #ec4899, transparent);
+}
+
+.nebula-glow-secondary {
+  position: absolute;
+  border-radius: 9999px;
+  pointer-events: none;
+  filter: blur(80px);
+  opacity: 0.2;
+  z-index: 0;
+  background: radial-gradient(circle, #d946ef, #4338ca, transparent);
+}
+button:hover{
+  filter: brightness(120%);
+}
