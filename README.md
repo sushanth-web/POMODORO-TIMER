@@ -1,12 +1,51 @@
-# React + Vite
+# ⏱️ 25 + 5 Clock Pomodoro Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Pomodoro Timer** built with **React** 🧠  
+This app helps boost productivity by timing work and break intervals (25 min session + 5 min break) with intuitive controls and a clean, animated UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Live Demo](https://your-demo-link-here.com)  
+_(Replace this with your deployed app link)_
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+| Session Mode | Break Mode |
+|--------------|------------|
+| ![Session Screenshot](![localhost_5173_(Nest Hub Max) (6)](https://github.com/user-attachments/assets/bc76ef3d-c397-44d0-a70a-522cae4ee3ab)
+) | ![Break Screenshot](![localhost_5173_(Nest Hub Max) (7)](https://github.com/user-attachments/assets/b765b940-f500-4487-9c96-fbc0bfe45964)
+) |
+
+_Add your screenshots in the `/screenshots` folder and link them here._
+
+---
+
+## ✨ Features
+
+- ⏲️ **25 + 5 Timer** – Standard Pomodoro setup  
+- 🎚️ Adjustable session and break lengths (1–60 minutes)  
+- ▶️ Pause/Resume timer  
+- 🔄 Reset button  
+- 🔔 Audio alert when switching modes  
+- 🌓 Stylish UI with glowing effects and smooth layout  
+- 📱 Fully responsive for desktop and mobile
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Hooks: `useState`, `useEffect`)  
+- **CSS/Tailwind** for styling and animations
+
+---
+
+## 🧰 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/25-5-clock.git
+   cd 25-5-clock
