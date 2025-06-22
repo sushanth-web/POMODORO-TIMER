@@ -7,8 +7,8 @@ This app helps boost productivity by timing work and break intervals (25 min ses
 
 ## 🚀 Live Demo
 
-👉 [Live Demo](https://your-demo-link-here.com)  
-_(Replace this with your deployed app link)_
+https://pomodoro-timer-omega-eight.vercel.app/
+
 
 ---
 
